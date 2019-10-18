@@ -10,6 +10,8 @@ class Mario:
         self.move_left = False
         self.jump = False
         self.crouch = False
+        self.run = False
+        self.walk = False
 
     def walk(self): pass
 
