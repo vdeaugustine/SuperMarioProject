@@ -2,8 +2,8 @@ import pygame
 from pygame.sprite import Group
 from level import Level
 
-screen_height = 200
-screen_width = 400
+screen_height = 400
+screen_width = 600
 
 # Level dictionary will be used with level counter to know what level we are on
 # and what its name is
