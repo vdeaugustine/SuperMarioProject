@@ -2,8 +2,10 @@ import pygame
 from pygame.sprite import Group
 from level import Level
 
-screen_height = 400
-screen_width = 600
+# 1580x460 is roughly the size of the aspect ratio of the demo game we were given
+screen_width = 1580
+screen_height = 460
+
 
 # Level dictionary will be used with level counter to know what level we are on
 # and what its name is
